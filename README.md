@@ -3,7 +3,10 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
+
+
 ![Microsoft%20Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![amazon%20aws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
