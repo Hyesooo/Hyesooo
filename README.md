@@ -32,6 +32,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesooo&show_icons=true&theme=radical)
 
+
+- 🔭 study...
+  - effective java
+  - refactoring
+  - jpa
+  - azure 204
+    
+- 🌱 side project ...
+  - a cup of acoe
+  - quote bakery
+    
+- 👯 classes ...
+  - next step
+
 <!--
 **Hyesooo/Hyesooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
