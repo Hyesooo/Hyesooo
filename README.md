@@ -34,17 +34,19 @@
 
 
 - 🔭 study...
-  - effective java
-  - refactoring
-  - jpa
-  - azure 204
+  - [effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
+  - [jpa](https://github.com/Hyesooo/JPA)
+  - [Azure 204](https://github.com/Hyesooo/azure_az204)
+  - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
+  - [refactoring](https://github.com/read-with-us/refactoring)
+  - [modern javaScript](https://github.com/Hyesooo/modernJS)
     
 - 🌱 side project ...
-  - a cup of acoe
-  - quote bakery
+  - [a cup of earth](https://github.com/14-team13/acoe-backend)
+  - [quote bakery](https://github.com/DDD-Community/PINGPONG-SERVER)
     
-- 👯 classes ...
-  - next step
+- 🤔 class ...
+  - [next step](https://github.com/Hyesooo/java-racingcar)
 
 <!--
 **Hyesooo/Hyesooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
