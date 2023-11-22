@@ -46,7 +46,8 @@
   - [quote bakery](https://github.com/DDD-Community/PINGPONG-SERVER)
     
 - 🤔 class ...
-  - [next step](https://github.com/Hyesooo/java-racingcar)
+  - [next step mission1 자동차경주](https://github.com/Hyesooo/java-racingcar)
+  - [next step missinon2 로또](https://github.com/Hyesooo/java-lotto)
 
 <!--
 **Hyesooo/Hyesooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
