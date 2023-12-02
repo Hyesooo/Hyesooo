@@ -31,23 +31,24 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesooo&show_icons=true&theme=radical)
-
-
-- 🔭 study...
-  - [effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
-  - [jpa](https://github.com/Hyesooo/JPA)
-  - [Azure 204](https://github.com/Hyesooo/azure_az204)
-  - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
-  - [refactoring](https://github.com/read-with-us/refactoring)
-  - [modern javaScript](https://github.com/Hyesooo/modernJS)
     
-- 🌱 side project ...
-  - [a cup of earth](https://github.com/14-team13/acoe-backend)
+- 🌱 Side project
   - [quote bakery](https://github.com/DDD-Community/PINGPONG-SERVER)
+  - [a cup of earth](https://github.com/14-team13/acoe-backend)
     
-- 🤔 class ...
+- ✨ Class
   - [next step mission1 단위테스트](https://github.com/Hyesooo/java-racingcar)
   - [next step mission2 TDD](https://github.com/Hyesooo/java-lotto)
+  - [next step mission3 OOP](https://github.com/Hyesooo/java-ladder)
+  - [next step mission4 Refactoring](https://github.com/Hyesooo/java-lms)
+ 
+- 💬 Study
+  - [effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
+  - [Azure 204](https://github.com/Hyesooo/azure_az204)
+  - [refactoring](https://github.com/read-with-us/refactoring)
+  - [jpa](https://github.com/Hyesooo/JPA)
+  - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
+  - [modern javaScript](https://github.com/Hyesooo/modernJS)
 
 <!--
 **Hyesooo/Hyesooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
