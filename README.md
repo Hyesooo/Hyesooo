@@ -33,7 +33,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesooo&show_icons=true&theme=radical)
     
 - 🌱 Side project
-  - [명어제과점](https://github.com/DDD-Community/PINGPONG-SERVER)
+  - [명언제과점](https://github.com/DDD-Community/PINGPONG-SERVER)
   - [ACOE](https://github.com/14-team13/acoe-backend)
     
 - ✨ Class
