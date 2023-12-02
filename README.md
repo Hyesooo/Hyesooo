@@ -33,8 +33,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesooo&show_icons=true&theme=radical)
     
 - 🌱 Side project
-  - [quote bakery](https://github.com/DDD-Community/PINGPONG-SERVER)
-  - [a cup of earth](https://github.com/14-team13/acoe-backend)
+  - [명어제과점](https://github.com/DDD-Community/PINGPONG-SERVER)
+  - [ACOE](https://github.com/14-team13/acoe-backend)
     
 - ✨ Class
   - [next step mission1 단위테스트](https://github.com/Hyesooo/java-racingcar)
