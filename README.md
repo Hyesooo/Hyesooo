@@ -43,12 +43,12 @@
   - [next step mission4 Refactoring](https://github.com/Hyesooo/java-lms)
  
 - 💬 Study
-  - [effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
-  - [Azure 204](https://github.com/Hyesooo/azure_az204)
-  - [refactoring](https://github.com/read-with-us/refactoring)
-  - [jpa](https://github.com/Hyesooo/JPA)
+  - [Effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
+  - [Azure 204 Certificate](https://github.com/Hyesooo/azure_az204)
+  - [Refactoring](https://github.com/read-with-us/refactoring)
+  - [Jpa](https://github.com/Hyesooo/JPA)
   - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
-  - [modern javaScript](https://github.com/Hyesooo/modernJS)
+  - [Modern javaScript](https://github.com/Hyesooo/modernJS)
 
 <!--
 **Hyesooo/Hyesooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
