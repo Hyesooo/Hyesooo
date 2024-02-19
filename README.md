@@ -34,11 +34,14 @@
  
 - 💬 Study
   - [Effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
+  - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://github.com/StudyBu2y/Virtual-Interview-Design)
   - [Azure 204 Certificate](https://github.com/Hyesooo/azure_az204)
   - [Refactoring](https://github.com/read-with-us/refactoring)
   - [Jpa](https://github.com/Hyesooo/JPA)
   - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
   - [Modern javaScript](https://github.com/Hyesooo/modernJS)
+
+
  
 - 🤔 Algorithm
   - [BJ](https://github.com/Algo-sadang)
