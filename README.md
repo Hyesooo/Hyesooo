@@ -33,6 +33,9 @@
   - [next step mission4 Refactoring](https://github.com/Hyesooo/java-lms)
  
 - 💬 Study
+
+  **[Notion study 기록](https://chartreuse-guava-e87.notion.site/STUDY-cc081138410945b1b80399eb90a1a3ff)**
+       
   - [Effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
   - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://github.com/StudyBu2y/Virtual-Interview-Design)
   - [Azure 204 Certificate](https://github.com/Hyesooo/azure_az204)
