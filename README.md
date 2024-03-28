@@ -43,8 +43,7 @@
   - [MongoDB](https://chartreuse-guava-e87.notion.site/MongoDB-539d534b9bfc462699b7a58760430efa)
   - [Azure 204 Certificate](https://github.com/Hyesooo/azure_az204)
   - [Refactoring](https://github.com/read-with-us/refactoring)
-  - [Jpa part1](https://github.com/Hyesooo/JPA)
-  - [Jpa part2](https://chartreuse-guava-e87.notion.site/JPA-414851068c3f48eeb00395b060890bf5)
+  - [JPA-part1](https://github.com/Hyesooo/JPA) / [JPA-part2](https://chartreuse-guava-e87.notion.site/JPA-414851068c3f48eeb00395b060890bf5)
   - [객체지향의 사실과 오해](https://github.com/Hyesooo/theEssenceOfObjectOrientation)
   - [Modern javaScript](https://github.com/Hyesooo/modernJS)
 
