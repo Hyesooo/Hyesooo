@@ -26,7 +26,8 @@
   - [명언제과점](https://github.com/DDD-Community/PINGPONG-SERVER)
   - [ACOE](https://github.com/14-team13/acoe-backend)
     
-- ✨ Class
+- ✨ Class  
+  **[tdd, cleancode with java 정리](https://chartreuse-guava-e87.notion.site/TDD-with-Java-621eb908b1054042ad6be44d469b32c0)**
   - [next step mission1 단위테스트](https://github.com/Hyesooo/java-racingcar)
   - [next step mission2 TDD](https://github.com/Hyesooo/java-lotto)
   - [next step mission3 OOP](https://github.com/Hyesooo/java-ladder)
@@ -37,7 +38,9 @@
   **[Notion study 기록](https://chartreuse-guava-e87.notion.site/STUDY-cc081138410945b1b80399eb90a1a3ff)**
        
   - [Effective java](https://github.com/EffectiveJava-Spring-StudyGroup/presentation)
-  - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://github.com/StudyBu2y/Virtual-Interview-Design)
+  - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://chartreuse-guava-e87.notion.site/249bf543909340eab80a7945591ce554)
+  - [만들면서 배우는 클린 아키텍처](https://chartreuse-guava-e87.notion.site/47df71df5eb4434b89260332a34213a2)
+  - [MongoDB](https://chartreuse-guava-e87.notion.site/MongoDB-539d534b9bfc462699b7a58760430efa)
   - [Azure 204 Certificate](https://github.com/Hyesooo/azure_az204)
   - [Refactoring](https://github.com/read-with-us/refactoring)
   - [Jpa](https://github.com/Hyesooo/JPA)
